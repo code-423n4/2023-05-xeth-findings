@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "carlitox477",
+  "risk": "2",
+  "title": "`AMO2::setRebalanceUpThreshold` and `AMO2::setRebalanceDownThreshold` should check that invariant `REBALANCE_DOWN_THRESHOLD < REBALANCE_UP_THRESHOLD` holds",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/2"
+}
