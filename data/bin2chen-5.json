@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "isCvxShutdown() booster shutdown but pool don't shutdown",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/5"
+}
