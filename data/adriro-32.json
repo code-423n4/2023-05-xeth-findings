@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Adding locked funds may undercut current stakers rewards due to `drip` being called before totalFunds is increased",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/32"
+}
