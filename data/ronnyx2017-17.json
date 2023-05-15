@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "ronnyx2017",
+  "risk": "2",
+  "title": "AMO2 doesn't add the lp balance of the CVXStaker to the withdrawable token amount ",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/17"
+}
