@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Zero token transfer can cause a potential DoS in CVXStaker",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/30"
+}
