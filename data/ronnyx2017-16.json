@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "ronnyx2017",
+  "risk": "2",
+  "title": "Some functions of the CVXStaker lack 0 address check",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/16"
+}
