@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "CVXStaker.sol Unable to process newly add rewardTokens",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/8"
+}
