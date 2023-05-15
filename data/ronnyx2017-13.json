@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "ronnyx2017",
+  "risk": "3",
+  "title": "All the lp tokens will be stuck in the AMO2 contract if CVXStaker.withdrawAllAndUnwrap is called with sendToOperator flag",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/13"
+}
