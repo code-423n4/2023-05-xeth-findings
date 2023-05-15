@@ -1,0 +1,8 @@
+{
+  "contest": 240,
+  "handle": "ronnyx2017",
+  "risk": "2",
+  "title": "Incorrect slippage check in the AMO2.rebalanceUp can be attacked by MEV",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2023-05-xeth-findings/issues/14"
+}
